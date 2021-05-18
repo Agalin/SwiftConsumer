@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log.git",
+        "state": {
+          "branch": null,
+          "revision": "173f567a2dfec11d74588eea82cecea555bdc0bc",
+          "version": "1.4.0"
+        }
+      },
+      {
+        "package": "SwiftKafka",
+        "repositoryURL": "https://github.com/IBM-Swift/SwiftKafka.git",
+        "state": {
+          "branch": null,
+          "revision": "7e2ffdd8208525ea6ccaffc634e2d46818915196",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
